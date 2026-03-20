@@ -1,0 +1,15 @@
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\bin\Debug\net10.0\Basics.exe
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\bin\Debug\net10.0\Basics.deps.json
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\bin\Debug\net10.0\Basics.runtimeconfig.json
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\bin\Debug\net10.0\Basics.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\bin\Debug\net10.0\Basics.pdb
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\Basics.AssemblyInfoInputs.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\Basics.AssemblyInfo.cs
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\Basics.sourcelink.json
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\Basics.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\refint\Basics.dll
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\Basics.pdb
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\Basics.genruntimeconfig.cache
+C:\Users\vaibhav.makwana\source\repos\LMS\Practical-04\Basics\obj\Debug\net10.0\ref\Basics.dll
